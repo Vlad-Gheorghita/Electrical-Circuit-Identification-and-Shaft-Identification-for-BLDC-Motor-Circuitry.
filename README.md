@@ -46,3 +46,4 @@ Identified angular position with an accuracy of 96.55%:
 
 
 # Getting started
+You can find the documentation of this project in the .pdf file and the matlab code for identification in the .m file.
