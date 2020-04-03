@@ -45,5 +45,8 @@ Identified angular position with an accuracy of 96.55%:
 ![alt text](https://github.com/Vlad-Gheorghita/Photos/blob/master/Pozitia_Unghiulara_Identificata.PNG)
 
 
-# Getting started
+## Getting started
 You can find the documentation of this project in the .pdf file and the matlab code for identification in the .m file.
+
+## Programing language
+* [Matlab](https://www.mathworks.com/products/matlab.html)
