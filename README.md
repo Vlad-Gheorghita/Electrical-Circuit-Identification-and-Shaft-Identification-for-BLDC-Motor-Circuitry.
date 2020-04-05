@@ -1,4 +1,4 @@
-# Shaft-Identification-for-BLDC-Motor-Circuitry.
+# Shaft-Identification-for-BLDC-Motor-Circuitry
 System identification of a BLDC motor.
 
 ## Used equipment
