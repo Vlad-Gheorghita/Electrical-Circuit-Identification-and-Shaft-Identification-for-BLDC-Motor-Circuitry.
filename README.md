@@ -1,7 +1,7 @@
 # Shaft-Identification-for-BLDC-Motor-Circuitry.
 System identification of a BLDC motor.
 
-## Used equipment:
+## Used equipment
 
 CNC driven by a BLDC engine:
 
