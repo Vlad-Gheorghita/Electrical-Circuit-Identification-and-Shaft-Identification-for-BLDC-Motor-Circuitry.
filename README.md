@@ -19,7 +19,7 @@ Mechanical positioning system and commanding system with a BLDC motor for an axi
 
 ![alt text](https://github.com/Vlad-Gheorghita/Photos/blob/master/Schema_Sistem.PNG)
 
-## Acquisition of experimental data:
+## Acquisition of experimental data
 
 Acquired input-output data:
 
@@ -32,7 +32,7 @@ Where:
   <li>The third graph represents the angular position</li>
 </ul>
 
-## Identified system:
+## Identified system
 
 Identified angular velocity with an accuracy of 90.21%:
 
